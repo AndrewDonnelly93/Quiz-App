@@ -1,0 +1,10 @@
+@use "../styles/variables.scss" as vars;
+
+.modePicker {
+  padding: 5px;
+  border: 1px solid vars.$colour--yellow;
+}
+
+.header {
+  color: vars.$colour-green;
+}
